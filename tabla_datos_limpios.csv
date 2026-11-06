@@ -1,0 +1,39 @@
+﻿Marca,Año,Tipo,Precio,Municipio,Vistas
+Audi,2023.0,Eléctrico,95000.0,Cerro,84.0
+Volkswagen,2023.0,Eléctrico,43000.0,,
+Hyundai,2024.0,Eléctrico,41000.0,Cerro,268.0
+Hyundai,,Eléctrico,39000.0,Plaza,10.0
+Hyundai,2024.0,Eléctrico,38000.0,Habana del Este,35.0
+Hyundai,2025.0,Eléctrico,35000.0,Cerro,59.0
+Bestune,2026.0,Eléctrico,34000.0,Cerro,104.0
+Volkswagen,,Gasolina,43000.0,Guanabacoa,16.0
+Mercedes-Benz,,Gasolina,40000.0,Boyeros,1.0
+Toyota,2023.0,Gasolina,34000.0,Cerro,378.0
+Chevrolet,2021.0,Gasolina,33500.0,Arroyo Naranjo,76.0
+Hyundai,2021.0,Gasolina,28000.0,Arroyo Naranjo,6.0
+Honda,2022.0,Gasolina,27500.0,Centro Habana,1.0
+Maxus,2023.0,Gasolina,25000.0,Playa,1.0
+Hyundai,2020.0,Gasolina,23000.0,Arroyo Naranjo,367.0
+Hyundai,2018.0,Gasolina,23000.0,La Lisa,138.0
+Hyundai,2019.0,Gasolina,22000.0,Habana del Este,46.0
+Hyundai,2019.0,Gasolina,20500.0,Plaza,42.0
+Hyundai,2017.0,Gasolina,20000.0,Cerro,196.0
+JAC,2025.0,Gasolina,19500.0,Playa,280.0
+Kia,2021.0,Gasolina,18000.0,Guanabacoa,4.0
+Peugeot,2018.0,Gasolina,17000.0,Habana del Este,1.0
+Kia,2019.0,Gasolina,16500.0,Boyeros,1.0
+Hyundai,2020.0,Gasolina,15500.0,Diez de Octubre,10.0
+Hyundai,2019.0,Gasolina,15500.0,Diez de Octubre,1.0
+Plymouth,1957.0,Gasolina,15000.0,Playa,580.0
+Peugeot,2007.0,Gasolina,14500.0,Playa,59.0
+Daewoo,,Gasolina,11000.0,Arroyo Naranjo,77.0
+Opel,1960.0,Gasolina,10000.0,Habana del Este,72.0
+Hyundai,2009.0,Gasolina,10000.0,Plaza,17.0
+Lada,2000.0,Gasolina,8500.0,Habana del Este,49.0
+Lada,,Gasolina,8000.0,Playa,671.0
+SEAT,1991.0,Gasolina,7500.0,San Miguel del Padrón,1169.0
+Peugeot,,Gasolina,7500.0,Cerro,766.0
+Plymouth,1950.0,Gasolina,7000.0,San Miguel del Padrón,9.0
+Lada,,Gasolina,6000.0,Playa,1024.0
+Lada,,Gasolina,5500.0,Guanabacoa,10.0
+Hyundai,,Gasolina,5000.0,Diez de Octubre,347.0
